@@ -1,4 +1,4 @@
 # jisuanqi
 
 手写计算器
-https://18950191310.github.io/jisuanqi/
+https://github.com/18950191310/jisuanqi/compare/master...gh-pages
